@@ -1,0 +1,6 @@
+framework module Pods_CarNumber {
+  umbrella header "Pods-CarNumber-umbrella.h"
+
+  export *
+  module * { export * }
+}
